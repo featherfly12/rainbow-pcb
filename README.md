@@ -1,3 +1,6 @@
+This is a pcb strip with rainbow leds! The part list is below and all the kicad files are listed\
+you can buy assembled from vendor or try to solder it yourself!\
+
 ## Parts List (BOM)
 
 | Component | Value/Spec | Package | Qty |
